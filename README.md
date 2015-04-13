@@ -1,4 +1,4 @@
 # DynamicLayout
 Dynamic inflate layout file.
 
-will download layout file form http server, and set data by json.
+will download layout file from http server, and set data by json.
